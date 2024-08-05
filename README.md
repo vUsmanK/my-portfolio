@@ -1,3 +1,4 @@
+<p align="center"><img src="public/Banner.png"></p>
 
 <div align="center">
   <a href="https://vusmank.github.io/my-portfolio/">
