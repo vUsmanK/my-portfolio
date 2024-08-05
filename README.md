@@ -25,7 +25,7 @@
 - To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
 
 
-<p align="center">Please hit me up at <a target="_blank" href="mailto:robinhoodfrost360@gmail.com">robinhoodfrost360@gmail.com</a> if you have any feedback or ideas for the website. Leave a ⭐ if you like it!</p>
+<p align="center">Please hit me up at <a target="_blank" href="mailto:robinhoodfrost360@gmail.com">robinhoodfrost360@gmail.com</a> if you have any feedback or ideas for the website.</p>
 
 ## Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request. Your feedback and contributions are highly appreciated.
