@@ -16,7 +16,7 @@
 </div>
 <br>
 
-<p align="center">My Portfolio — https://vusmank.github.io/my-portfolio/</p> 
+<p align="center">My Portfolio — https://vusmank.me</p> 
 
 ## Installation & Deployment
 - Clone the repository and modify the content of <b>index.html</b> 
